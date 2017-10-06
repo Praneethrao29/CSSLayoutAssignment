@@ -1,0 +1,41 @@
+
+
+.pranee{
+		
+		width:450px;
+		height:50px;
+		background-color:lavender;
+	
+	border:1px solid black;
+	margin-left:150px;
+	}
+	
+
+.blue {
+  background: #13b4ff;
+  float: left;
+  width: 50px;
+  height: 20px;
+  margin-top:10px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.red {
+  background: #ab3fdd;
+  float: left;
+  width: 50px;
+  height: 20px;
+  margin-left: 150px;
+  border: 1px solid rgba(0, 0, 0, .2);
+  margin-top:10px;
+}
+
+.green {
+  background: #ae163e;
+  float: left;
+  width: 50px;
+  height: 20px;
+  margin-left:144px;
+  border: 1px solid rgba(0, 0, 0, .2);
+  margin-top:10px;
+}

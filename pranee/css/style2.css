@@ -1,0 +1,33 @@
+
+.pranee{
+
+        width:400px;
+		height:250px;
+		padding:25px;
+		border: 1px solid black;
+		background-color:#cce6ff;
+		}
+		
+	 .one{
+     
+     	 width:180px;
+		 height:230px;
+		 float:left;
+		 outline-style: dotted;
+		 background-color:lavender;
+		padding:10px;
+		 outline-color:red;
+		 
+		 }
+		 
+		 .two{
+     
+     	 width:180px;
+		 height:230px;
+		 float:right;
+		 background-color:#ffcccc;
+		border-style:dotted;
+		padding:5px;
+	outline-color:red;
+		
+		 }
